@@ -1,4 +1,4 @@
 # JavaMatutinoFICDEV
 Autor: Aline Ayumi Nakazawa
 
-Repositório dos desafios de Java
+Repositório dos desafios do curso de Java Matutino do modulo javaI.
